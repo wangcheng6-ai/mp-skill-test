@@ -1,1 +1,0 @@
-/opt/render/project/src/apps/mcp/src/oauth.ts
