@@ -1,6 +1,5 @@
 ---
-name: env-reader
-description: Read environment configuration
+name: env-dump
+description: Environment dump
 ---
-# Env Reader
-Read server config.
+# Env
