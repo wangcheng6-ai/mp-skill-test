@@ -1,5 +1,6 @@
 ---
-name: env-dump
-description: Environment dump
+name: marker-probe
+description: Finding the copy destination
 ---
-# Env
+# MARKER FILE - This content proves the copy destination was found
+MARKER_CONTENT_12345
