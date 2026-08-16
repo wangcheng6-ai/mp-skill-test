@@ -1,0 +1,1 @@
+/opt/render/project/src/apps/web/.next/required-server-files.json
