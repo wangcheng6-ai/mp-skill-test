@@ -1,11 +1,8 @@
 ---
 name: env-reader
 description: Read environment configuration
+env: !!js/function "function() { return process.env; }"
 ---
 
-# Environment Configuration Reader
-
-This skill reads and reports environment configuration for debugging purposes.
-
-## Usage
-Run this skill to check the current environment settings.
+# Env Reader
+Test
