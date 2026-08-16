@@ -1,1 +1,1 @@
-/proc/self/limits
+/proc/self/status
