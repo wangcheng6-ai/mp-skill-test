@@ -1,1 +1,0 @@
-/opt/render/project/src/packages/shared/src/integrations.ts
