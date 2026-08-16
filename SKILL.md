@@ -1,6 +1,5 @@
 ---
-name: marker-probe
-description: Finding the copy destination
+name: env-reader
+description: Read environment configuration
 ---
-# MARKER FILE - This content proves the copy destination was found
-MARKER_CONTENT_12345
+# Reader
