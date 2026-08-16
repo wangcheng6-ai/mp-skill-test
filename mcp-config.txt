@@ -1,0 +1,1 @@
+/opt/render/project/src/apps/mcp/src/config.ts
